@@ -1,260 +1,260 @@
 <?xml version="1.0"?>
-<TreeTypes>
-    <TreeType>Acacia, Wright</TreeType>
-    <TreeType>Alder, Red</TreeType>
-    <TreeType>Amur Corktree</TreeType>
-    <TreeType>Anacacho/Orchid Tree</TreeType>
-    <TreeType>Anacahuite</TreeType>
-    <TreeType>Anacua</TreeType>
-    <TreeType>Apple, Dwarf</TreeType>
-    <TreeType>Ash, Berlandier</TreeType>
-    <TreeType>Ash, Fragrant</TreeType>
-    <TreeType>Ash, Green</TreeType>
-    <TreeType>Ash, Texas</TreeType>
-    <TreeType>Ash, White</TreeType>
-    <TreeType>Basswood</TreeType>
-    <TreeType>Beech, American</TreeType>
-    <TreeType>Beech, Blue</TreeType>
-    <TreeType>Beech, European</TreeType>
-    <TreeType>Birch, River</TreeType>
-    <TreeType>Birch, Yellow</TreeType>
-    <TreeType>Blackhaw, Rusty</TreeType>
-    <TreeType>Bluewood</TreeType>
-    <TreeType>Boxelder</TreeType>
-    <TreeType>Brazilian Beautyleaf</TreeType>
-    <TreeType>Buckeye, Mexican</TreeType>
-    <TreeType>Buckeye, Ohio</TreeType>
-    <TreeType>Buckeye, Red</TreeType>
-    <TreeType>Butternut</TreeType>
-    <TreeType>Bulnesia</TreeType>
-    <TreeType>Buttonbush, Common</TreeType>
-    <TreeType>Buttonwood, Green</TreeType>
-    <TreeType>Buttonwood, Silver</TreeType>
-    <TreeType>Carolina Buckthorn</TreeType>
-    <TreeType>Carolina Laurelcherry</TreeType>
-    <TreeType>Catalpa, Northern</TreeType>
-    <TreeType>Catalpa, Southern</TreeType>
-    <TreeType>Che</TreeType>
-    <TreeType>Cherry, Black</TreeType>
-    <TreeType>Cherry, Kwansan</TreeType>
-    <TreeType>Cherry, Yoshino</TreeType>
-    <TreeType>Chinaberry</TreeType>
-    <TreeType>Chinese Tallow</TreeType>
-    <TreeType>Coma</TreeType>
-    <TreeType>Condalia</TreeType>
-    <TreeType>Cottonwood, Eastern</TreeType>
-    <TreeType>Cottonwood, Western</TreeType>
-    <TreeType>CrapeMyrtle</TreeType>
-    <TreeType>Crabapple, Southern</TreeType>
-    <TreeType>Crabapple sp.</TreeType>
-    <TreeType>Desert Willow</TreeType>
-    <TreeType>Devil's Walking Stick</TreeType>
-    <TreeType>Dogwood, Corneliancherry</TreeType>
-    <TreeType>Dogwood, Flowering</TreeType>
-    <TreeType>Ebony, Texas</TreeType>
-    <TreeType>Elm, American</TreeType>
-    <TreeType>Elm, Cedar</TreeType>
-    <TreeType>Elm, Lacebark/Chinese</TreeType>
-    <TreeType>Elm, Var. Smooth Leaf</TreeType>
-    <TreeType>Elm, Winged</TreeType>
-    <TreeType>Eve's Necklace</TreeType>
-    <TreeType>Fig</TreeType>
-    <TreeType>Fringetree</TreeType>
-    <TreeType>Geiger Tree</TreeType>
-    <TreeType>Ginkgo</TreeType>
-    <TreeType>Glaucous Cassia</TreeType>
-    <TreeType>Goldenball Leadtree</TreeType>
-    <TreeType>Goldenrain Tree</TreeType>
-    <TreeType>Gumbo Limbo</TreeType>
-    <TreeType>Gum Bumelia</TreeType>
-    <TreeType>Hackberry, Netleaf</TreeType>
-    <TreeType>Hackberry, Sugar</TreeType>
-    <TreeType>Hawthorn</TreeType>
-    <TreeType>Hercules Club</TreeType>
-    <TreeType>Hickory, Bitternut</TreeType>
-    <TreeType>Hickory, Black</TreeType>
-    <TreeType>Hickory, Mockernut</TreeType>
-    <TreeType>Hickory, Shagbark</TreeType>
-    <TreeType>Hickory, Water</TreeType>
-    <TreeType>Holly, American</TreeType>
-    <TreeType>Holly, Dahoon</TreeType>
-    <TreeType>Holly, East Palatka</TreeType>
-    <TreeType>Holly, Foster</TreeType>
-    <TreeType>Holly, Nellie Stevens</TreeType>
-    <TreeType>Holly, Possumhaw</TreeType>
-    <TreeType>Holly, Yaupon</TreeType>
-    <TreeType>Honeylocust, Thornless</TreeType>
-    <TreeType>Hophornbeam, American</TreeType>
-    <TreeType>Hornbeam, American</TreeType>
-    <TreeType>Hornbeam, European</TreeType>
-    <TreeType>Horsechestnut</TreeType>
-    <TreeType>Huisache</TreeType>
-    <TreeType>Japanese Tree Lilac</TreeType>
-    <TreeType>Jacaranda</TreeType>
-    <TreeType>Jerusalem-Thorn</TreeType>
-    <TreeType>Japanese Pagoda</TreeType>
-    <TreeType>Japanese Privet/Ligustrum</TreeType>
-    <TreeType>Jujube</TreeType>
-    <TreeType>Katsuratree</TreeType>
-    <TreeType>Kentucky Coffeetree</TreeType>
-    <TreeType>Kumquat</TreeType>
-    <TreeType>Linden, Silver</TreeType>
-    <TreeType>Locust, Black</TreeType>
-    <TreeType>Loquat</TreeType>
-    <TreeType>Mahogany</TreeType>
-    <TreeType>Magnolia, 'Little Gem'</TreeType>
-    <TreeType>Magnolia, Saucer</TreeType>
-    <TreeType>Magnolia, Southern</TreeType>
-    <TreeType>Magnolia, Star (incomp.)</TreeType>
-    <TreeType>Magnolia, Sweet Bay</TreeType>
-    <TreeType>Maple, Amur</TreeType>
-    <TreeType>Maple, Bigtooth</TreeType>
-    <TreeType>Maple, Florida</TreeType>
-    <TreeType>Maple, Japanese</TreeType>
-    <TreeType>Maple. Miyabe</TreeType>
-    <TreeType>Maple, Pacific Coast</TreeType>
-    <TreeType>Maple, Paperbark</TreeType>
-    <TreeType>Maple, Red</TreeType>
-    <TreeType>Maple, Silver</TreeType>
-    <TreeType>Maple, Sugar</TreeType>
-    <TreeType>Mesquite, Honey</TreeType>
-    <TreeType>Mesquite, Screwbean</TreeType>
-    <TreeType>Mimosa</TreeType>
-    <TreeType>Mulberry, Red</TreeType>
-    <TreeType>Oak, Blackjack</TreeType>
-    <TreeType>Oak, Bluejack</TreeType>
-    <TreeType>Oak, Bur</TreeType>
-    <TreeType>Oak, Cherrybark</TreeType>
-    <TreeType>Oak, Chinquapin</TreeType>
-    <TreeType>Oak, Lacey/Blue</TreeType>
-    <TreeType>Oak, Graves</TreeType>
-    <TreeType>Oak, Live</TreeType>
-    <TreeType>Oak, Mexican Blue</TreeType>
-    <TreeType>Oak, Mexican White</TreeType>
-    <TreeType>Oak, Northern Red</TreeType>
-    <TreeType>Oak, Nuttall</TreeType>
-    <TreeType>Oak, Overcup</TreeType>
-    <TreeType>Oak, Pin</TreeType>
-    <TreeType>Oak, Post</TreeType>
-    <TreeType>Oak, Sawtooth</TreeType>
-    <TreeType>Oak, Shumard</TreeType>
-    <TreeType>Oak, Southern Red</TreeType>
-    <TreeType>Oak, Swamp Chestnut</TreeType>
-    <TreeType>Oak, Swamp White</TreeType>
-    <TreeType>Oak, Texas</TreeType>
-    <TreeType>Oak, Texas Red</TreeType>
-    <TreeType>Oak, Water</TreeType>
-    <TreeType>Oak, Willow</TreeType>
-    <TreeType>Oak, White</TreeType>
-    <TreeType>Osage-Orange</TreeType>
-    <TreeType>Paradise Tree</TreeType>
-    <TreeType>Paw paw</TreeType>
-    <TreeType>Peach</TreeType>
-    <TreeType>Pear, Bradford</TreeType>
-    <TreeType>Pear, Orchard</TreeType>
-    <TreeType>Pecan</TreeType>
-    <TreeType>Persimmon, Japanese</TreeType>
-    <TreeType>Persimmon, Texas</TreeType>
-    <TreeType>Pigeon Plum</TreeType>
-    <TreeType>Pistache, Chinese</TreeType>
-    <TreeType>Pistache, Texas</TreeType>
-    <TreeType>Plum, Chickasaw</TreeType>
-    <TreeType>Plum, Mexican</TreeType>
-    <TreeType>Plum, Purple-Leaf</TreeType>
-    <TreeType>Redbud</TreeType>
-    <TreeType>Redbud, Mexican</TreeType>
-    <TreeType>Redbud, Texas</TreeType>
-    <TreeType>Royal Poinciana</TreeType>
-    <TreeType>Sassafras</TreeType>
-    <TreeType>Satinleaf</TreeType>
-    <TreeType>Serviceberry, Apple</TreeType>
-    <TreeType>Silverbell,Carolina</TreeType>
-    <TreeType>Silverbell, Two-winged</TreeType>
-    <TreeType>Smoketree, American</TreeType>
-    <TreeType>Soapberry, Western</TreeType>
-    <TreeType>Spanish Stopper</TreeType>
-    <TreeType>Sumac, Prairie Flameleaf</TreeType>
-    <TreeType>Sumac, Shining</TreeType>
-    <TreeType>Sweet Bay</TreeType>
-    <TreeType>Sweet Gum</TreeType>
-    <TreeType>Sycamore</TreeType>
-    <TreeType>Sycamore, Mexican</TreeType>
-    <TreeType>Texas Mt. Laurel</TreeType>
-    <TreeType>Tree Sparkleberry</TreeType>
-    <TreeType>Trumpet Tree, Golden</TreeType>
-    <TreeType>Trumpet Tree, Pink</TreeType>
-    <TreeType>Tuliptree</TreeType>
-    <TreeType>Tupelo, Black</TreeType>
-    <TreeType>Turkish Filbert</TreeType>
-    <TreeType>Vitex</TreeType>
-    <TreeType>Walnut, Black</TreeType>
-    <TreeType>Walnut, Texas</TreeType>
-    <TreeType>Wax Myrtle</TreeType>
-    <TreeType>Wild Olive</TreeType>
-    <TreeType>Wild Tamarind</TreeType>
-    <TreeType>Willow, Black</TreeType>
-    <TreeType>Witch-Hazel</TreeType>
-    <TreeType>Zelkova</TreeType>
-    <TreeType>Arborvitae, Western</TreeType>
-    <TreeType>Baldcypress</TreeType>
-    <TreeType>Cedar, Blue Atlas</TreeType>
-    <TreeType>Cedar, Eastern Red</TreeType>
-    <TreeType>Cypress, Arizona</TreeType>
-    <TreeType>Cypress, Leyland</TreeType>
-    <TreeType>Cypress, Montezuma</TreeType>
-    <TreeType>Fir, Concolor</TreeType>
-    <TreeType>Fir, Douglas</TreeType>
-    <TreeType>Hemock, Eastern</TreeType>
-    <TreeType>Juniper, Ashe</TreeType>
-    <TreeType>Juniper, Alligator</TreeType>
-    <TreeType>Juniper, Rky Mtn.</TreeType>
-    <TreeType>Pine, Afghanistan/Eldarica</TreeType>
-    <TreeType>Pine, Aleppo</TreeType>
-    <TreeType>Pine, Austrian</TreeType>
-    <TreeType>Pine, Dragon Eye</TreeType>
-    <TreeType>Pine, Italian Stone</TreeType>
-    <TreeType>Pine, Japanese Black</TreeType>
-    <TreeType>Pine, Limber</TreeType>
-    <TreeType>Pine, Loblolly</TreeType>
-    <TreeType>Pine, Longleaf</TreeType>
-    <TreeType>Pine, Mexican Pinyon</TreeType>
-    <TreeType>Pine, Pinyon</TreeType>
-    <TreeType>Pine, Shortleaf</TreeType>
-    <TreeType>Pine, Slash</TreeType>
-    <TreeType>Pine, Weeping E. White</TreeType>
-    <TreeType>Pine, S-Western White</TreeType>
-    <TreeType>Spruce, Colorado Blue</TreeType>
-    <TreeType>Spruce, Serbian</TreeType>
-    <TreeType>Adonida Palm</TreeType>
-    <TreeType>Alexander Palm</TreeType>
-    <TreeType>Areca Palm</TreeType>
-    <TreeType>Bismarckia Palm</TreeType>
-    <TreeType>Canary Island Date Palm</TreeType>
-    <TreeType>Chinese Fan Palm</TreeType>
-    <TreeType>Coconut Palm</TreeType>
-    <TreeType>Dwarf Palmetto</TreeType>
-    <TreeType>European Fan Palm</TreeType>
-    <TreeType>Fishtail Palm</TreeType>
-    <TreeType>Florida Thatch Palm</TreeType>
-    <TreeType>Foxtail Palm</TreeType>
-    <TreeType>King Sago Palm</TreeType>
-    <TreeType>Mediterranean Fan Palm</TreeType>
-    <TreeType>Mexican Fan Palm</TreeType>
-    <TreeType>Medjool Palm</TreeType>
-    <TreeType>Montgomery Palm</TreeType>
-    <TreeType>Needle Palm</TreeType>
-    <TreeType>Paurotis Palm</TreeType>
-    <TreeType>Pindo Palm</TreeType>
-    <TreeType>Queen Palm</TreeType>
-    <TreeType>Queen Sago Palm</TreeType>
-    <TreeType>Roebelenii Palm</TreeType>
-    <TreeType>Rhapis Lady Palm</TreeType>
-    <TreeType>Royal Palm</TreeType>
-    <TreeType>Sabal Palm</TreeType>
-    <TreeType>Saw Palmetto</TreeType>
-    <TreeType>Solitaire Palm</TreeType>
-    <TreeType>Spindle Palm</TreeType>
-    <TreeType>Sylvester Date Palm</TreeType>
-    <TreeType>Washingtonia Palm</TreeType>
-    <TreeType>Windmill Palm</TreeType>
-</TreeTypes>
+<treeTypes>
+    <treeType>Acacia, Wright</treeType>
+    <treeType>Alder, Red</treeType>
+    <treeType>Amur Corktree</treeType>
+    <treeType>Anacacho/Orchid Tree</treeType>
+    <treeType>Anacahuite</treeType>
+    <treeType>Anacua</treeType>
+    <treeType>Apple, Dwarf</treeType>
+    <treeType>Ash, Berlandier</treeType>
+    <treeType>Ash, Fragrant</treeType>
+    <treeType>Ash, Green</treeType>
+    <treeType>Ash, Texas</treeType>
+    <treeType>Ash, White</treeType>
+    <treeType>Basswood</treeType>
+    <treeType>Beech, American</treeType>
+    <treeType>Beech, Blue</treeType>
+    <treeType>Beech, European</treeType>
+    <treeType>Birch, River</treeType>
+    <treeType>Birch, Yellow</treeType>
+    <treeType>Blackhaw, Rusty</treeType>
+    <treeType>Bluewood</treeType>
+    <treeType>Boxelder</treeType>
+    <treeType>Brazilian Beautyleaf</treeType>
+    <treeType>Buckeye, Mexican</treeType>
+    <treeType>Buckeye, Ohio</treeType>
+    <treeType>Buckeye, Red</treeType>
+    <treeType>Butternut</treeType>
+    <treeType>Bulnesia</treeType>
+    <treeType>Buttonbush, Common</treeType>
+    <treeType>Buttonwood, Green</treeType>
+    <treeType>Buttonwood, Silver</treeType>
+    <treeType>Carolina Buckthorn</treeType>
+    <treeType>Carolina Laurelcherry</treeType>
+    <treeType>Catalpa, Northern</treeType>
+    <treeType>Catalpa, Southern</treeType>
+    <treeType>Che</treeType>
+    <treeType>Cherry, Black</treeType>
+    <treeType>Cherry, Kwansan</treeType>
+    <treeType>Cherry, Yoshino</treeType>
+    <treeType>Chinaberry</treeType>
+    <treeType>Chinese Tallow</treeType>
+    <treeType>Coma</treeType>
+    <treeType>Condalia</treeType>
+    <treeType>Cottonwood, Eastern</treeType>
+    <treeType>Cottonwood, Western</treeType>
+    <treeType>CrapeMyrtle</treeType>
+    <treeType>Crabapple, Southern</treeType>
+    <treeType>Crabapple sp.</treeType>
+    <treeType>Desert Willow</treeType>
+    <treeType>Devil's Walking Stick</treeType>
+    <treeType>Dogwood, Corneliancherry</treeType>
+    <treeType>Dogwood, Flowering</treeType>
+    <treeType>Ebony, Texas</treeType>
+    <treeType>Elm, American</treeType>
+    <treeType>Elm, Cedar</treeType>
+    <treeType>Elm, Lacebark/Chinese</treeType>
+    <treeType>Elm, Var. Smooth Leaf</treeType>
+    <treeType>Elm, Winged</treeType>
+    <treeType>Eve's Necklace</treeType>
+    <treeType>Fig</treeType>
+    <treeType>Fringetree</treeType>
+    <treeType>Geiger Tree</treeType>
+    <treeType>Ginkgo</treeType>
+    <treeType>Glaucous Cassia</treeType>
+    <treeType>Goldenball Leadtree</treeType>
+    <treeType>Goldenrain Tree</treeType>
+    <treeType>Gumbo Limbo</treeType>
+    <treeType>Gum Bumelia</treeType>
+    <treeType>Hackberry, Netleaf</treeType>
+    <treeType>Hackberry, Sugar</treeType>
+    <treeType>Hawthorn</treeType>
+    <treeType>Hercules Club</treeType>
+    <treeType>Hickory, Bitternut</treeType>
+    <treeType>Hickory, Black</treeType>
+    <treeType>Hickory, Mockernut</treeType>
+    <treeType>Hickory, Shagbark</treeType>
+    <treeType>Hickory, Water</treeType>
+    <treeType>Holly, American</treeType>
+    <treeType>Holly, Dahoon</treeType>
+    <treeType>Holly, East Palatka</treeType>
+    <treeType>Holly, Foster</treeType>
+    <treeType>Holly, Nellie Stevens</treeType>
+    <treeType>Holly, Possumhaw</treeType>
+    <treeType>Holly, Yaupon</treeType>
+    <treeType>Honeylocust, Thornless</treeType>
+    <treeType>Hophornbeam, American</treeType>
+    <treeType>Hornbeam, American</treeType>
+    <treeType>Hornbeam, European</treeType>
+    <treeType>Horsechestnut</treeType>
+    <treeType>Huisache</treeType>
+    <treeType>Japanese Tree Lilac</treeType>
+    <treeType>Jacaranda</treeType>
+    <treeType>Jerusalem-Thorn</treeType>
+    <treeType>Japanese Pagoda</treeType>
+    <treeType>Japanese Privet/Ligustrum</treeType>
+    <treeType>Jujube</treeType>
+    <treeType>Katsuratree</treeType>
+    <treeType>Kentucky Coffeetree</treeType>
+    <treeType>Kumquat</treeType>
+    <treeType>Linden, Silver</treeType>
+    <treeType>Locust, Black</treeType>
+    <treeType>Loquat</treeType>
+    <treeType>Mahogany</treeType>
+    <treeType>Magnolia, 'Little Gem'</treeType>
+    <treeType>Magnolia, Saucer</treeType>
+    <treeType>Magnolia, Southern</treeType>
+    <treeType>Magnolia, Star (incomp.)</treeType>
+    <treeType>Magnolia, Sweet Bay</treeType>
+    <treeType>Maple, Amur</treeType>
+    <treeType>Maple, Bigtooth</treeType>
+    <treeType>Maple, Florida</treeType>
+    <treeType>Maple, Japanese</treeType>
+    <treeType>Maple. Miyabe</treeType>
+    <treeType>Maple, Pacific Coast</treeType>
+    <treeType>Maple, Paperbark</treeType>
+    <treeType>Maple, Red</treeType>
+    <treeType>Maple, Silver</treeType>
+    <treeType>Maple, Sugar</treeType>
+    <treeType>Mesquite, Honey</treeType>
+    <treeType>Mesquite, Screwbean</treeType>
+    <treeType>Mimosa</treeType>
+    <treeType>Mulberry, Red</treeType>
+    <treeType>Oak, Blackjack</treeType>
+    <treeType>Oak, Bluejack</treeType>
+    <treeType>Oak, Bur</treeType>
+    <treeType>Oak, Cherrybark</treeType>
+    <treeType>Oak, Chinquapin</treeType>
+    <treeType>Oak, Lacey/Blue</treeType>
+    <treeType>Oak, Graves</treeType>
+    <treeType>Oak, Live</treeType>
+    <treeType>Oak, Mexican Blue</treeType>
+    <treeType>Oak, Mexican White</treeType>
+    <treeType>Oak, Northern Red</treeType>
+    <treeType>Oak, Nuttall</treeType>
+    <treeType>Oak, Overcup</treeType>
+    <treeType>Oak, Pin</treeType>
+    <treeType>Oak, Post</treeType>
+    <treeType>Oak, Sawtooth</treeType>
+    <treeType>Oak, Shumard</treeType>
+    <treeType>Oak, Southern Red</treeType>
+    <treeType>Oak, Swamp Chestnut</treeType>
+    <treeType>Oak, Swamp White</treeType>
+    <treeType>Oak, Texas</treeType>
+    <treeType>Oak, Texas Red</treeType>
+    <treeType>Oak, Water</treeType>
+    <treeType>Oak, Willow</treeType>
+    <treeType>Oak, White</treeType>
+    <treeType>Osage-Orange</treeType>
+    <treeType>Paradise Tree</treeType>
+    <treeType>Paw paw</treeType>
+    <treeType>Peach</treeType>
+    <treeType>Pear, Bradford</treeType>
+    <treeType>Pear, Orchard</treeType>
+    <treeType>Pecan</treeType>
+    <treeType>Persimmon, Japanese</treeType>
+    <treeType>Persimmon, Texas</treeType>
+    <treeType>Pigeon Plum</treeType>
+    <treeType>Pistache, Chinese</treeType>
+    <treeType>Pistache, Texas</treeType>
+    <treeType>Plum, Chickasaw</treeType>
+    <treeType>Plum, Mexican</treeType>
+    <treeType>Plum, Purple-Leaf</treeType>
+    <treeType>Redbud</treeType>
+    <treeType>Redbud, Mexican</treeType>
+    <treeType>Redbud, Texas</treeType>
+    <treeType>Royal Poinciana</treeType>
+    <treeType>Sassafras</treeType>
+    <treeType>Satinleaf</treeType>
+    <treeType>Serviceberry, Apple</treeType>
+    <treeType>Silverbell,Carolina</treeType>
+    <treeType>Silverbell, Two-winged</treeType>
+    <treeType>Smoketree, American</treeType>
+    <treeType>Soapberry, Western</treeType>
+    <treeType>Spanish Stopper</treeType>
+    <treeType>Sumac, Prairie Flameleaf</treeType>
+    <treeType>Sumac, Shining</treeType>
+    <treeType>Sweet Bay</treeType>
+    <treeType>Sweet Gum</treeType>
+    <treeType>Sycamore</treeType>
+    <treeType>Sycamore, Mexican</treeType>
+    <treeType>Texas Mt. Laurel</treeType>
+    <treeType>Tree Sparkleberry</treeType>
+    <treeType>Trumpet Tree, Golden</treeType>
+    <treeType>Trumpet Tree, Pink</treeType>
+    <treeType>Tuliptree</treeType>
+    <treeType>Tupelo, Black</treeType>
+    <treeType>Turkish Filbert</treeType>
+    <treeType>Vitex</treeType>
+    <treeType>Walnut, Black</treeType>
+    <treeType>Walnut, Texas</treeType>
+    <treeType>Wax Myrtle</treeType>
+    <treeType>Wild Olive</treeType>
+    <treeType>Wild Tamarind</treeType>
+    <treeType>Willow, Black</treeType>
+    <treeType>Witch-Hazel</treeType>
+    <treeType>Zelkova</treeType>
+    <treeType>Arborvitae, Western</treeType>
+    <treeType>Baldcypress</treeType>
+    <treeType>Cedar, Blue Atlas</treeType>
+    <treeType>Cedar, Eastern Red</treeType>
+    <treeType>Cypress, Arizona</treeType>
+    <treeType>Cypress, Leyland</treeType>
+    <treeType>Cypress, Montezuma</treeType>
+    <treeType>Fir, Concolor</treeType>
+    <treeType>Fir, Douglas</treeType>
+    <treeType>Hemock, Eastern</treeType>
+    <treeType>Juniper, Ashe</treeType>
+    <treeType>Juniper, Alligator</treeType>
+    <treeType>Juniper, Rky Mtn.</treeType>
+    <treeType>Pine, Afghanistan/Eldarica</treeType>
+    <treeType>Pine, Aleppo</treeType>
+    <treeType>Pine, Austrian</treeType>
+    <treeType>Pine, Dragon Eye</treeType>
+    <treeType>Pine, Italian Stone</treeType>
+    <treeType>Pine, Japanese Black</treeType>
+    <treeType>Pine, Limber</treeType>
+    <treeType>Pine, Loblolly</treeType>
+    <treeType>Pine, Longleaf</treeType>
+    <treeType>Pine, Mexican Pinyon</treeType>
+    <treeType>Pine, Pinyon</treeType>
+    <treeType>Pine, Shortleaf</treeType>
+    <treeType>Pine, Slash</treeType>
+    <treeType>Pine, Weeping E. White</treeType>
+    <treeType>Pine, S-Western White</treeType>
+    <treeType>Spruce, Colorado Blue</treeType>
+    <treeType>Spruce, Serbian</treeType>
+    <treeType>Adonida Palm</treeType>
+    <treeType>Alexander Palm</treeType>
+    <treeType>Areca Palm</treeType>
+    <treeType>Bismarckia Palm</treeType>
+    <treeType>Canary Island Date Palm</treeType>
+    <treeType>Chinese Fan Palm</treeType>
+    <treeType>Coconut Palm</treeType>
+    <treeType>Dwarf Palmetto</treeType>
+    <treeType>European Fan Palm</treeType>
+    <treeType>Fishtail Palm</treeType>
+    <treeType>Florida Thatch Palm</treeType>
+    <treeType>Foxtail Palm</treeType>
+    <treeType>King Sago Palm</treeType>
+    <treeType>Mediterranean Fan Palm</treeType>
+    <treeType>Mexican Fan Palm</treeType>
+    <treeType>Medjool Palm</treeType>
+    <treeType>Montgomery Palm</treeType>
+    <treeType>Needle Palm</treeType>
+    <treeType>Paurotis Palm</treeType>
+    <treeType>Pindo Palm</treeType>
+    <treeType>Queen Palm</treeType>
+    <treeType>Queen Sago Palm</treeType>
+    <treeType>Roebelenii Palm</treeType>
+    <treeType>Rhapis Lady Palm</treeType>
+    <treeType>Royal Palm</treeType>
+    <treeType>Sabal Palm</treeType>
+    <treeType>Saw Palmetto</treeType>
+    <treeType>Solitaire Palm</treeType>
+    <treeType>Spindle Palm</treeType>
+    <treeType>Sylvester Date Palm</treeType>
+    <treeType>Washingtonia Palm</treeType>
+    <treeType>Windmill Palm</treeType>
+</treeTypes>
