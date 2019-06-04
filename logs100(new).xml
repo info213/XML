@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<logs>
+  <log>
+    <logID>101</logID>
+    <species>Cypress</species>
+    <description>Imported from South America</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>14.0</length>
+  </log>
+  <log>
+    <logID>102</logID>
+    <species>Willow</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Heat Treated</treatment>
+    <length>13.0</length>
+  </log>
+  <log>
+    <logID>103</logID>
+    <species>Robinia</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>14.3</length>
+  </log>
+  <log>
+    <logID>104</logID>
+    <species>Oak</species>
+    <description>Exporting to Australia</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>5.6</length>
+  </log>
+  <log>
+    <logID>105</logID>
+    <species>Silver fir</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>14.1</length>
+  </log>
+  <log>
+    <logID>106</logID>
+    <species>Spruce</species>
+    <description>Imported from South America</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>5.8</length>
+  </log>
+  <log>
+    <logID>107</logID>
+    <species>Eucalypts</species>
+    <description>Imported from South America</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>8.3</length>
+  </log>
+  <log>
+    <logID>108</logID>
+    <species>Indigenous Species</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>13.8</length>
+  </log>
+  <log>
+    <logID>109</logID>
+    <species>Cypress</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>6.7</length>
+  </log>
+  <log>
+    <logID>110</logID>
+    <species>Indigenous Species</species>
+    <description>Imported from South America</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>10.1</length>
+  </log>
+  <log>
+    <logID>111</logID>
+    <species>Japanese Cedar</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>6.4</length>
+  </log>
+  <log>
+    <logID>112</logID>
+    <species>Redwood</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>10.3</length>
+  </log>
+  <log>
+    <logID>113</logID>
+    <species>Black walnut</species>
+    <description>Imported from USA</description>
+    <grade>1</grade>
+    <treatment>Heat Treated</treatment>
+    <length>10.7</length>
+  </log>
+  <log>
+    <logID>114</logID>
+    <species>Dawn Redwood</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>14.6</length>
+  </log>
+  <log>
+    <logID>115</logID>
+    <species>Totara</species>
+    <description>Imported from South America</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>5.5</length>
+  </log>
+  <log>
+    <logID>116</logID>
+    <species>Eucalypts</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>8.9</length>
+  </log>
+  <log>
+    <logID>117</logID>
+    <species>Radiata Pine</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>9.2</length>
+  </log>
+  <log>
+    <logID>118</logID>
+    <species>Cryptomeria japonica</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>12.1</length>
+  </log>
+  <log>
+    <logID>119</logID>
+    <species>Black walnut</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>7.3</length>
+  </log>
+  <log>
+    <logID>120</logID>
+    <species>Cypress</species>
+    <description>Imported from USA</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>13.7</length>
+  </log>
+  <log>
+    <logID>121</logID>
+    <species>Douglas Fir</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>14.5</length>
+  </log>
+  <log>
+    <logID>122</logID>
+    <species>Paulownia</species>
+    <description>Exporting to Australia</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>14.3</length>
+  </log>
+  <log>
+    <logID>123</logID>
+    <species>Oak</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>6.6</length>
+  </log>
+  <log>
+    <logID>124</logID>
+    <species>Douglas Fir</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>12.1</length>
+  </log>
+  <log>
+    <logID>125</logID>
+    <species>Japanese Cedar</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>8.6</length>
+  </log>
+  <log>
+    <logID>126</logID>
+    <species>Black walnut</species>
+    <description>N/A</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>13.9</length>
+  </log>
+  <log>
+    <logID>127</logID>
+    <species>Manuka</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>13.2</length>
+  </log>
+  <log>
+    <logID>128</logID>
+    <species>Blackwood</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>7.3</length>
+  </log>
+  <log>
+    <logID>129</logID>
+    <species>Indigenous Species</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>12.8</length>
+  </log>
+  <log>
+    <logID>130</logID>
+    <species>Dawn Redwood</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>10.7</length>
+  </log>
+  <log>
+    <logID>131</logID>
+    <species>Poplar</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>6.3</length>
+  </log>
+  <log>
+    <logID>132</logID>
+    <species>Paulownia</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Heat Treated</treatment>
+    <length>8.4</length>
+  </log>
+  <log>
+    <logID>133</logID>
+    <species>Paulownia</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>14.8</length>
+  </log>
+  <log>
+    <logID>134</logID>
+    <species>Indigenous Species</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>6.5</length>
+  </log>
+  <log>
+    <logID>135</logID>
+    <species>Cryptomeria japonica</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Borate Treated</treatment>
+    <length>11.2</length>
+  </log>
+  <log>
+    <logID>136</logID>
+    <species>Douglas Fir</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>14.6</length>
+  </log>
+  <log>
+    <logID>137</logID>
+    <species>Cedar</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>5.1</length>
+  </log>
+  <log>
+    <logID>138</logID>
+    <species>Robinia</species>
+    <description>Imported from South America</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>13.0</length>
+  </log>
+  <log>
+    <logID>139</logID>
+    <species>Cypress</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Borate Treated</treatment>
+    <length>8.5</length>
+  </log>
+  <log>
+    <logID>140</logID>
+    <species>Larch</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>11.5</length>
+  </log>
+  <log>
+    <logID>141</logID>
+    <species>Japanese Cedar</species>
+    <description>Exporting to Australia</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>5.5</length>
+  </log>
+  <log>
+    <logID>142</logID>
+    <species>Totara</species>
+    <description>Imported from USA</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>9.1</length>
+  </log>
+  <log>
+    <logID>143</logID>
+    <species>Oak</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>13.2</length>
+  </log>
+  <log>
+    <logID>144</logID>
+    <species>Totara</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>8.2</length>
+  </log>
+  <log>
+    <logID>145</logID>
+    <species>Larch</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>5.6</length>
+  </log>
+  <log>
+    <logID>146</logID>
+    <species>Japanese Cedar</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>5.1</length>
+  </log>
+  <log>
+    <logID>147</logID>
+    <species>Redwood</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>14.2</length>
+  </log>
+  <log>
+    <logID>148</logID>
+    <species>Blackwood</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>9.7</length>
+  </log>
+  <log>
+    <logID>149</logID>
+    <species>Totara</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>9.0</length>
+  </log>
+  <log>
+    <logID>150</logID>
+    <species>Kanuka</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>9.9</length>
+  </log>
+  <log>
+    <logID>151</logID>
+    <species>Larch</species>
+    <description>Imported from South America</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>9.4</length>
+  </log>
+  <log>
+    <logID>152</logID>
+    <species>Poplar</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>6.7</length>
+  </log>
+  <log>
+    <logID>153</logID>
+    <species>Douglas Fir</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Borate Treated</treatment>
+    <length>12.4</length>
+  </log>
+  <log>
+    <logID>154</logID>
+    <species>Radiata Pine</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>14.1</length>
+  </log>
+  <log>
+    <logID>155</logID>
+    <species>Spruce</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>7.5</length>
+  </log>
+  <log>
+    <logID>156</logID>
+    <species>Cedar</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>9.0</length>
+  </log>
+  <log>
+    <logID>157</logID>
+    <species>Cedar</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>7.2</length>
+  </log>
+  <log>
+    <logID>158</logID>
+    <species>Black walnut</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Borate Treated</treatment>
+    <length>7.4</length>
+  </log>
+  <log>
+    <logID>159</logID>
+    <species>Spruce</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>8.7</length>
+  </log>
+  <log>
+    <logID>160</logID>
+    <species>Manuka</species>
+    <description>Imported from South America</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>11.0</length>
+  </log>
+  <log>
+    <logID>161</logID>
+    <species>Willow</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>9.7</length>
+  </log>
+  <log>
+    <logID>162</logID>
+    <species>Kanuka</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>6.1</length>
+  </log>
+  <log>
+    <logID>163</logID>
+    <species>Eucalypts</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>13.0</length>
+  </log>
+  <log>
+    <logID>164</logID>
+    <species>Black walnut</species>
+    <description>N/A</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>11.4</length>
+  </log>
+  <log>
+    <logID>165</logID>
+    <species>Kanuka</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>11.7</length>
+  </log>
+  <log>
+    <logID>166</logID>
+    <species>Indigenous Species</species>
+    <description>Exporting to Australia</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>13.7</length>
+  </log>
+  <log>
+    <logID>167</logID>
+    <species>Indigenous Species</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Borate Treated</treatment>
+    <length>11.3</length>
+  </log>
+  <log>
+    <logID>168</logID>
+    <species>Redwood</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>7.2</length>
+  </log>
+  <log>
+    <logID>169</logID>
+    <species>Manuka</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Borate Treated</treatment>
+    <length>9.9</length>
+  </log>
+  <log>
+    <logID>170</logID>
+    <species>Eucalypts</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>9.0</length>
+  </log>
+  <log>
+    <logID>171</logID>
+    <species>Poplar</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>5.9</length>
+  </log>
+  <log>
+    <logID>172</logID>
+    <species>Manuka</species>
+    <description>Imported from USA</description>
+    <grade>1</grade>
+    <treatment>Heat Treated</treatment>
+    <length>7.3</length>
+  </log>
+  <log>
+    <logID>173</logID>
+    <species>Manuka</species>
+    <description>N/A</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>9.8</length>
+  </log>
+  <log>
+    <logID>174</logID>
+    <species>Manuka</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>11.2</length>
+  </log>
+  <log>
+    <logID>175</logID>
+    <species>Manuka</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>5.4</length>
+  </log>
+  <log>
+    <logID>176</logID>
+    <species>Silver fir</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>14.3</length>
+  </log>
+  <log>
+    <logID>177</logID>
+    <species>Poplar</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>12.2</length>
+  </log>
+  <log>
+    <logID>178</logID>
+    <species>Cryptomeria japonica</species>
+    <description>N/A</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>14.0</length>
+  </log>
+  <log>
+    <logID>179</logID>
+    <species>Blackwood</species>
+    <description>Exporting to Australia</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>13.4</length>
+  </log>
+  <log>
+    <logID>180</logID>
+    <species>Japanese Cedar</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>13.3</length>
+  </log>
+  <log>
+    <logID>181</logID>
+    <species>Manuka</species>
+    <description>Exporting to Australia</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>7.2</length>
+  </log>
+  <log>
+    <logID>182</logID>
+    <species>Douglas Fir</species>
+    <description>Imported from South America</description>
+    <grade>1</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>10.0</length>
+  </log>
+  <log>
+    <logID>183</logID>
+    <species>Robinia</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>11.2</length>
+  </log>
+  <log>
+    <logID>184</logID>
+    <species>Paulownia</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>12.8</length>
+  </log>
+  <log>
+    <logID>185</logID>
+    <species>Cedar</species>
+    <description>Exporting to China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>11.6</length>
+  </log>
+  <log>
+    <logID>186</logID>
+    <species>Douglas Fir</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>12.2</length>
+  </log>
+  <log>
+    <logID>187</logID>
+    <species>Totara</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>5.4</length>
+  </log>
+  <log>
+    <logID>188</logID>
+    <species>Oak</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>9.1</length>
+  </log>
+  <log>
+    <logID>189</logID>
+    <species>Indigenous Species</species>
+    <description>Imported from China</description>
+    <grade>2</grade>
+    <treatment>Non-Pressure Treated</treatment>
+    <length>5.7</length>
+  </log>
+  <log>
+    <logID>190</logID>
+    <species>Black walnut</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>12.4</length>
+  </log>
+  <log>
+    <logID>191</logID>
+    <species>Japanese Cedar</species>
+    <description>Imported from USA</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>11.9</length>
+  </log>
+  <log>
+    <logID>192</logID>
+    <species>Poplar</species>
+    <description>Imported from South America</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>12.1</length>
+  </log>
+  <log>
+    <logID>193</logID>
+    <species>Willow</species>
+    <description>Exporting to China</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>7.2</length>
+  </log>
+  <log>
+    <logID>194</logID>
+    <species>Cypress</species>
+    <description>N/A</description>
+    <grade>2</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>14.9</length>
+  </log>
+  <log>
+    <logID>195</logID>
+    <species>Redwood</species>
+    <description>Imported from USA</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>12.8</length>
+  </log>
+  <log>
+    <logID>196</logID>
+    <species>Douglas Fir</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Pressure Treated</treatment>
+    <length>12.3</length>
+  </log>
+  <log>
+    <logID>197</logID>
+    <species>Cedar</species>
+    <description>Imported from China</description>
+    <grade>3</grade>
+    <treatment>Heat Treated</treatment>
+    <length>13.2</length>
+  </log>
+  <log>
+    <logID>198</logID>
+    <species>Eucalypts</species>
+    <description>FRAGILE: High Quality</description>
+    <grade>1</grade>
+    <treatment>Heat Treated</treatment>
+    <length>8.9</length>
+  </log>
+  <log>
+    <logID>199</logID>
+    <species>Eucalypts</species>
+    <description>N/A</description>
+    <grade>3</grade>
+    <treatment>Borate Treated</treatment>
+    <length>12.4</length>
+  </log>
+  <log>
+    <logID>200</logID>
+    <species>Larch</species>
+    <description>Imported from South America</description>
+    <grade>2</grade>
+    <treatment>Heat Treated</treatment>
+    <length>7.3</length>
+  </log>
+</logs>
