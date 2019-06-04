@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<clients>
+	<suppliers>
+	  <supplier>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Jeremiah Leaver</contactName>
+		<contactNumber>340-809-3448</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Leo Mun</contactName>
+		<contactNumber>715-556-6333</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Clyde Boose</contactName>
+		<contactNumber>699-184-5617</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Leia Sweetman</contactName>
+		<contactNumber>941-202-5438</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Renato Vanderpol</contactName>
+		<contactNumber>858-924-1136</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Eugena Spino</contactName>
+		<contactNumber>474-999-7744</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Laurie Forestry Christchurch</companyName>
+		<contactName>Eugena Spino</contactName>
+		<contactNumber>566-903-1980</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Lonny Sandusky</contactName>
+		<contactNumber>313-912-7831</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Rhonda Fordham</contactName>
+		<contactNumber>577-186-9113</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Leia Sweetman</contactName>
+		<contactNumber>735-846-6506</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Timbers of New Zealand Ltd.</companyName>
+		<contactName>Rosy Lipka</contactName>
+		<contactNumber>902-548-9377</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Eugena Spino</contactName>
+		<contactNumber>340-492-0872</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Marianna Garrels</contactName>
+		<contactNumber>248-802-9394</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Westimber</companyName>
+		<contactName>Amparo Uphoff</contactName>
+		<contactNumber>187-445-1764</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Marianna Garrels</contactName>
+		<contactNumber>825-226-1978</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Marianna Garrels</contactName>
+		<contactNumber>526-325-5686</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Laurie Forestry Christchurch</companyName>
+		<contactName>Eugena Spino</contactName>
+		<contactNumber>341-208-1355</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Deirdre Collard</contactName>
+		<contactNumber>316-235-3217</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Courtney Elizondo</contactName>
+		<contactNumber>620-782-9152</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Laurie Forestry Christchurch</companyName>
+		<contactName>Vince Brockington</contactName>
+		<contactNumber>393-933-3455</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Rhonda Fordham</contactName>
+		<contactNumber>760-620-9704</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Elmo Stoke</contactName>
+		<contactNumber>466-622-7014</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Westimber</companyName>
+		<contactName>Leo Mun</contactName>
+		<contactNumber>666-514-7116</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Rhonda Fordham</contactName>
+		<contactNumber>151-784-9029</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Halswell Timber</companyName>
+		<contactName>Jennell Jurado</contactName>
+		<contactNumber>292-123-8461</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Amparo Uphoff</contactName>
+		<contactNumber>815-193-1437</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Misha Nagle</contactName>
+		<contactNumber>538-861-4891</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Dane Aronowitz</contactName>
+		<contactNumber>866-131-5897</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Vince Brockington</contactName>
+		<contactNumber>123-230-1643</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Clyde Boose</contactName>
+		<contactNumber>539-618-9302</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Amparo Uphoff</contactName>
+		<contactNumber>530-546-6543</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Marianna Garrels</contactName>
+		<contactNumber>783-730-6090</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Misha Nagle</contactName>
+		<contactNumber>672-548-2411</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Iluminada Babineaux</contactName>
+		<contactNumber>100-140-6697</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Jennell Jurado</contactName>
+		<contactNumber>756-389-4294</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Dane Aronowitz</contactName>
+		<contactNumber>603-671-7955</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Elmo Stoke</contactName>
+		<contactNumber>134-855-4167</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Delcie Sais</contactName>
+		<contactNumber>414-714-7163</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Timbers of New Zealand Ltd.</companyName>
+		<contactName>Rosy Lipka</contactName>
+		<contactNumber>618-715-5538</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Dane Aronowitz</contactName>
+		<contactNumber>231-903-9851</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Courtney Elizondo</contactName>
+		<contactNumber>867-538-5345</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Elmo Stoke</contactName>
+		<contactNumber>745-607-0799</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Herman Brochu</contactName>
+		<contactNumber>627-996-9312</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Rayonier Matariki Forests Canterbury</companyName>
+		<contactName>Dessie Mangini</contactName>
+		<contactNumber>910-217-3786</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Westimber</companyName>
+		<contactName>Eugena Spino</contactName>
+		<contactNumber>924-503-5986</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Sol Cafferty</contactName>
+		<contactNumber>590-120-2284</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Clyde Boose</contactName>
+		<contactNumber>278-515-7243</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Dessie Mangini</contactName>
+		<contactNumber>504-385-7812</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Renato Vanderpol</contactName>
+		<contactNumber>893-497-4049</contactNumber>
+	  </supplier>
+	  <supplier>
+		<companyName>Halswell Timber</companyName>
+		<contactName>Lonny Sandusky</contactName>
+		<contactNumber>745-786-2147</contactNumber>
+	  </supplier>
+	</suppliers>
+	<buyers>
+	  <buyer>
+		<companyName>Halswell Timber</companyName>
+		<contactName>Kami Messinger</contactName>
+		<contactNumber>862-653-8091</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Mirta Buchwald</contactName>
+		<contactNumber>172-873-8242</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Placemakers Riccarton</companyName>
+		<contactName>George Dinan</contactName>
+		<contactNumber>157-775-2486</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Laurie Forestry Christchurch</companyName>
+		<contactName>Guy Ooten</contactName>
+		<contactNumber>362-208-6415</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Myra Freed</contactName>
+		<contactNumber>703-700-6752</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>George Dinan</contactName>
+		<contactNumber>171-231-5990</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Duncan Fuentes</contactName>
+		<contactNumber>282-672-3584</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Julieann Milledge</contactName>
+		<contactNumber>491-248-7236</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Guy Ooten</contactName>
+		<contactNumber>211-296-6392</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Yelena Penick</contactName>
+		<contactNumber>443-693-5388</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Maisie Leonard</contactName>
+		<contactNumber>513-233-1271</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Westimber</companyName>
+		<contactName>Louise Dill</contactName>
+		<contactNumber>368-286-4995</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Gerald Waltman</contactName>
+		<contactNumber>674-292-3180</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Timbers of New Zealand Ltd.</companyName>
+		<contactName>Antone Mcmackin</contactName>
+		<contactNumber>179-478-7205</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Alberto Maglione</contactName>
+		<contactNumber>346-345-2662</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Whangarei Forestry Ltd.</companyName>
+		<contactName>Virgie Campanav</contactName>
+		<contactNumber>272-886-5092</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Delcie Siler</contactName>
+		<contactNumber>552-642-7616</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Jospeh Stickler</contactName>
+		<contactNumber>609-922-5746</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Penny Bost</contactName>
+		<contactNumber>641-226-4186</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName></contactName>
+		<contactNumber>318-301-9346</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Jospeh Stickler</contactName>
+		<contactNumber>922-680-1780</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Rayonier Matariki Forests Canterbury</companyName>
+		<contactName>Antone Mcmackin</contactName>
+		<contactNumber>982-780-6611</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Placemakers Riccarton</companyName>
+		<contactName>Derrick Joubert</contactName>
+		<contactNumber>474-712-1162</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Laurie Forestry Christchurch</companyName>
+		<contactName>Derrick Joubert</contactName>
+		<contactNumber>488-249-6874</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Iluminada Mcelfresh</contactName>
+		<contactNumber>385-957-9479</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Maisie Leonard</contactName>
+		<contactNumber>674-159-3667</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Guy Ooten</contactName>
+		<contactNumber>363-241-7931</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Jospeh Stickler</contactName>
+		<contactNumber>761-139-7454</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Myra Freed</contactName>
+		<contactNumber>643-148-9805</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Ethel Holt</contactName>
+		<contactNumber>739-808-7371</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>George Dinan</contactName>
+		<contactNumber>862-146-7040</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Kaiapoi</companyName>
+		<contactName>Irina Mcglamery</contactName>
+		<contactNumber>849-408-6225</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Timbers of New Zealand Ltd.</companyName>
+		<contactName>Louise Dill</contactName>
+		<contactNumber>460-521-6449</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Rayonier Matariki Forests Canterbury</companyName>
+		<contactName>Derrick Joubert</contactName>
+		<contactNumber>385-657-7270</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Louise Dill</contactName>
+		<contactNumber>483-355-1670</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Rayonier Matariki Forests Canterbury</companyName>
+		<contactName>Duncan Fuentes</contactName>
+		<contactNumber>149-394-1055</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Kenneally Timber Products Ltd.</companyName>
+		<contactName>Duncan Fuentes</contactName>
+		<contactNumber>890-517-7288</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Carissa Friberg</contactName>
+		<contactNumber>222-353-0837</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Hubert Cottman</contactName>
+		<contactNumber>729-155-8571</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Timbers of New Zealand Ltd.</companyName>
+		<contactName>Duncan Fuentes</contactName>
+		<contactNumber>988-728-2367</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Julieann Milledge</contactName>
+		<contactNumber>770-169-7571</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Placemakers Riccarton</companyName>
+		<contactName>Irina Mcglamery</contactName>
+		<contactNumber>661-579-6142</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Bunnings Warehouse Riccarton</companyName>
+		<contactName>Yelena Penick</contactName>
+		<contactNumber>353-941-4440</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Gerald Waltman</contactName>
+		<contactNumber>448-895-9281</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Ethel Holt</contactName>
+		<contactNumber>715-771-6625</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Dyers Road</companyName>
+		<contactName>Iluminada Mcelfresh</contactName>
+		<contactNumber>872-623-4774</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Rayonier Matariki Forests Canterbury</companyName>
+		<contactName>Irina Mcglamery</contactName>
+		<contactNumber>901-771-4881</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Northland Lumber</companyName>
+		<contactName>Maisie Leonard</contactName>
+		<contactNumber>485-916-9986</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>ITM Rangiora</companyName>
+		<contactName>Ethel Holt</contactName>
+		<contactNumber>953-557-7098</contactNumber>
+	  </buyer>
+	  <buyer>
+		<companyName>Canterbury Timber</companyName>
+		<contactName>Penny Bost</contactName>
+		<contactNumber>573-356-1098</contactNumber>
+	  </buyer>
+	</buyers>
+</clients>
