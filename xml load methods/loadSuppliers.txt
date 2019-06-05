@@ -1,0 +1,36 @@
+loadSuppliers() updating; 
+
+vars
+	xml: JadeXMLDocument;
+	element: JadeXMLElement;
+	elements: JadeXMLElementArray;
+	fileName: String;
+	streetAddress, city, state, country, name, phoneNumber : String;
+
+begin
+
+	app.initialize();
+
+	create xml transient;
+	create elements transient;
+
+	fileName := openFile();
+	
+	xml.parseFile(fileName);
+	xml.getElementsByTagName("supplier", elements);
+	
+	foreach element in elements do
+		streetAddress := element.getElementByTagName("streetAddress").text;
+		city := element.getElementByTagName("city").text;
+		state := element.getElementByTagName("state").text;
+		country := element.getElementByTagName("country").text;
+		name := element.getElementByTagName("name").text;
+		phoneNumber := element.getElementByTagName("phoneNumber").text;
+		write streetAddress & ", " & city & ", " & state & ", " & country & ", " & name & ", " & phoneNumber; 
+	endforeach;
+
+	
+epilog
+	delete xml;
+	delete elements;
+end;

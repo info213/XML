@@ -1,0 +1,42 @@
+loadLogs() updating;
+
+vars
+	xml: JadeXMLDocument;
+	element: JadeXMLElement;
+	elements: JadeXMLElementArray;
+	fileName: String;
+	grade, length: Integer; 
+	species : String;
+	treatment : String;
+	id : String; 
+	log : Log;
+	logSpecification : LogSpecification;
+
+begin
+
+	app.initialize();  
+
+	create xml transient;
+	create elements transient;
+
+	fileName := openFile();
+	
+	xml.parseFile(fileName);
+	xml.getElementsByTagName("log", elements);
+	
+	foreach element in elements do
+			grade := element.getElementByTagName("grade").text.Integer;
+			id := element.getElementByTagName("id").text;
+			length := element.getElementByTagName("length").text.Integer; 
+			species := element.getElementByTagName("species").text; 
+			treatment := element.getElementByTagName("treatment").text; 
+			logSpecification := app.findLogSpecification(grade, species, treatment, true);
+			beginTransaction;
+				log := create Log(id, logSpecification);
+			commitTransaction; 
+	endforeach;
+	
+epilog
+	delete xml;
+	delete elements;
+end;
