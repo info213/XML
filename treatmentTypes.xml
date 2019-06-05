@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <treatments>
+    <treatment>Not Treated</treatment>
     <treatment>Pressure Treated</treatment>
 	<treatment>Non-Pressure Treated</treatment>
     <treatment>Heat Treated</treatment>
